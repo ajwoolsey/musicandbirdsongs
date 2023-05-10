@@ -7,26 +7,26 @@ body {
 p {
     color: white;
     font-family: 'Quantico', sans-serif;
-    font-size: 25px;
+    font-size: 40px;
 }
 h1 {
     font-family: 'Quantico', sans-serif;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 80px;
 }
 h2 {
     font-family: 'Quantico', sans-serif;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 70px;
 }
 
 h3 {
     font-family: 'Quantico', sans-serif;
     font-weight: bolder;
-    font-size: 30px;
+    font-size: 60px;
 }
 .quote {
-    font-size: 20px;
+    font-size: 35px;
     font-family: 'Quantico', sans-serif;
     font-style: italic;
 }
@@ -34,7 +34,7 @@ h3 {
 .imagewrapper {
     display: flex;
     padding-inline-start: 15%;
-    font-size: 18px;
+    font-size: 40px;
   }
 #nightingalecaption{
     font-style: italic;
@@ -43,7 +43,7 @@ h3 {
 .figurewrapper {
     display: flex;
     padding-inline-start: 5%;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 #spectrogram {
@@ -58,14 +58,14 @@ h3 {
 }
 
 .header {
-    font-size: 35px;
+    font-size: 60px;
     padding-top: 2%;
 }
 
 .table {
     display: inline-flex;
     padding-inline-start: 30%;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 th, td {
@@ -79,15 +79,15 @@ th, td {
 }
 
 .acknowledgements {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #referencecontent {
-    font-size: 15px;
+    font-size: 30px;
     padding-top: 0%;
 }
 
 #referenceheader {
-    font-size: 30px;
+    font-size: 40px;
     padding-bottom: 0%;
 }
