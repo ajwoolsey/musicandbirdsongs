@@ -20,9 +20,6 @@ h2 {
     font-size: 70px;
 }
 
-.overtone {
-    padding-bottom: 5%;
-}
 h3 {
     font-family: 'Quantico', sans-serif;
     font-weight: bolder;
@@ -36,15 +33,26 @@ h3 {
 
 .imagewrapper {
     display: flex;
+    padding-inline-start: 15%;
     font-size: 40px;
   }
-
-#leeimage {
-    padding-right: 10%;
-}
-
 #nightingalecaption{
     font-style: italic;
+}
+
+.figurewrapper {
+    display: flex;
+    padding-inline-start: 2%;
+    font-size: 30px;
+}
+
+#overtone {
+    padding-right:5%;
+}
+
+#spectrogram {
+    padding-top: 15%;
+    padding-left: 10%;
 }
 
 .buttons {
