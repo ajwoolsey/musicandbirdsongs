@@ -33,7 +33,7 @@ h3 {
 
 .imagewrapper {
     display: flex;
-    padding-inline-start: 15%;
+    padding-inline-start: 0%;
     font-size: 40px;
   }
 #nightingalecaption{
