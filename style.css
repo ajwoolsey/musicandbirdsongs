@@ -35,6 +35,11 @@ h3 {
     display: flex;
     font-size: 40px;
   }
+
+#leeimage {
+    padding-right: 5%;
+}
+
 #nightingalecaption{
     font-style: italic;
 }
