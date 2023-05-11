@@ -46,7 +46,6 @@ h3 {
 
 .figurewrapper {
     display: grid;
-    padding-inline-start: 2%;
     font-size: 30px;
 }
 
