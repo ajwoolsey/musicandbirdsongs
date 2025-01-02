@@ -7,6 +7,6 @@ Bird song has long inspired musicians and composers but has yet to be officially
 ## Repository Files
 * [index.html](#index.html): home website detailing the inspirations and methodologies for Ornithic Serinette
 
-## Additional Links
+## Video Links
 * [Project Description and Methodology for Hunter College's 2023 Interactive Art Showcase](https://www.youtube.com/watch?v=OJyXxFOB6Xk&t=82s)
-* [Inspiration for Creating a MIDI Controller with Makey Makey and MaxMSP](https://www.youtube.com/watch?v=3Js1W9mVM0I&t=934s)
+* [Creating a MIDI Controller with a Makey Makey and Max/MSP](https://www.youtube.com/watch?v=3Js1W9mVM0I&t=934s)
