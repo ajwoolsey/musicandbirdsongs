@@ -1,6 +1,5 @@
 # Ornithic Serinette
-
-![picture alt](https://ibb.co/7Rr5ds2)
+![460414496_1030881208776546_7353332717192061089_n (1)](https://github.com/user-attachments/assets/6a26cfec-04c9-44e6-b3b5-23d12acb6350)
 
 Bird song has long inspired musicians and composers but has yet to be officially determined as music in its own right. Music does not belong to us; music is the language of feeling, music is evolution, music is the spiritual force that flows between all beings and will prevail long after we are gone. This interactive musical instrument delivers the beautiful melodies of the earth to your fingertips. Each egg corresponds to notes found naturally in hermit thrush songs, determined to follow the same mathematical rules as human harmonic music scales. 
 
