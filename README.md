@@ -8,5 +8,5 @@ Bird song has long inspired musicians and composers but has yet to be officially
 * [index.html](#index.html): html file for home website
 
 ## Video Links
-* [Project Description and Methodology for Hunter College's 2023 Interactive Art Showcase](https://www.youtube.com/watch?v=OJyXxFOB6Xk&t=82s](https://www.youtube.com/watch?v=5fqApPcgKb4)
+* [Project Description and Methodology for Hunter College's 2023 Interactive Art Showcase](https://www.youtube.com/watch?v=5fqApPcgKb4)
 * [Creating a MIDI Controller with a Makey Makey and Max/MSP](https://www.youtube.com/watch?v=3Js1W9mVM0I&t=934s)
